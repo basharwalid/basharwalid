@@ -1,6 +1,4 @@
-![👋 Hi, my name is Bashar walid](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
-
-![Profile views](https://komarev.com/ghpvc/?username=basharwalid&label=Profile%20views&color=0e75b6&style=flat)
+![👋 Hi, my name is Bashar walid]
 
 <div id="toc">
   <ul align="center" style="list-style: none">
