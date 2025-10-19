@@ -1,4 +1,4 @@
-👋 Hi, my name is Bashar walid
+
 
 <div id="toc">
   <ul align="center" style="list-style: none">
