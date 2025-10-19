@@ -17,7 +17,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 🌱 I'm currently learning: **📚 Api using Java Springboot **
+- 🌱 I'm currently learning: 📚 Api using Java Springboot
 - 💬 Ask me about: **💡 Flutter, Native android, Firebase, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
