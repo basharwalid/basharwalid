@@ -1,5 +1,3 @@
-
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
@@ -11,9 +9,9 @@
 </div>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="www.linkedin.com/in/bashar-walid-82a538283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="basharwalid2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.instagram.com/fr.bashar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 12px"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/bashar-walid-82a538283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="mailto:basharwalid2002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 12px"></a> <a href="https://www.instagram.com/fr.bashar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 12px"></a></p>
 
- **<h3 align="left">🚀 I’m Bashar Walid, a Flutter developer with 3 years of experience building high-quality mobile applications for Android and iOS. I’m passionate about creating clean, user-friendly designs and efficient code. I also have solid knowledge of native Android (Java) and iOS development, with a strong focus on performance and UI consistency across platforms.</h3>**
+ **<h3 align="left">🚀 I'm Bashar Walid, a Flutter developer with 3 years of experience building high-quality mobile applications for Android and iOS. I'm passionate about creating clean, user-friendly designs and efficient code. I also have solid knowledge of native Android (Java) and iOS development, with a strong focus on performance and UI consistency across platforms.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
@@ -34,4 +32,3 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=basharwalid&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
